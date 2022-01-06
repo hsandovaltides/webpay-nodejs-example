@@ -17,7 +17,7 @@ Ingresar en el directorio en donde se clono el repositorio
 Se visualizará por la consola el siguiente resultado:
 ```JSON
 {
-  token: '01ab411f19290ffab2e3631e68b04df806994bbd247c45dbf965864a026ac4a4',
-  url: 'https://webpay3gint.transbank.cl/webpayserver/initTransaction'
+  'token': '01ab411f19290ffab2e3631e68b04df806994bbd247c45dbf965864a026ac4a4',
+  'url': 'https://webpay3gint.transbank.cl/webpayserver/initTransaction'
 }
 ```
