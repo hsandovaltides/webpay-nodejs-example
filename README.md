@@ -1,8 +1,8 @@
 # webpay-nodejs-example
 
 ## Carpetas
-1. v2: Ejemplo usando el [sdk v2](https://github.com/TransbankDevelopers/transbank-sdk-nodejs/releases/tag/2.1.3) de Transbank
-2. v3: Ejemplo usando la [sdk v3](https://github.com/TransbankDevelopers/transbank-sdk-nodejs/releases/tag/3.0.0)de la libreria de transbank
+1. v2: Ejemplo usando el [sdk v2](https://github.com/TransbankDevelopers/transbank-sdk-nodejs/releases/tag/2.1.3) de Transbank.
+2. v3: Ejemplo usando la [sdk v3](https://github.com/TransbankDevelopers/transbank-sdk-nodejs/releases/tag/3.0.0) de Transbank.
 
 ### Como usar
 
